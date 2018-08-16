@@ -1,0 +1,78 @@
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.exe.config
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.pdb
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csproj.CoreCompileInputs.cache
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.pdb
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\log4net.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\log4net.xml
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csproj.CopyComplete
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csprojAssemblyReference.cache
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\commons-logging.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\fontbox-1.8.2.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\icu4j-3.8.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.Runtime.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\jempbox-1.8.2.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\junit.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.PDFEditor\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.exe.config
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\PiyushApps.PDFEditor.pdb
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\commons-logging.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\fontbox-1.8.2.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\icu4j-3.8.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.Runtime.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\jempbox-1.8.2.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\junit.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\log4net.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\bin\Debug\log4net.xml
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csprojAssemblyReference.cache
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csproj.CoreCompileInputs.cache
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.csproj.CopyComplete
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Source\Repos\PiyushApps\PiyushApps.PDFEditor\obj\Debug\PiyushApps.PDFEditor.pdb
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\bin\Debug\PiyushApps.PDFEditor.exe.config
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\bin\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\bin\Debug\PiyushApps.PDFEditor.pdb
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\obj\Debug\PiyushApps.PDFEditor.csprojAssemblyReference.cache
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\obj\Debug\PiyushApps.PDFEditor.csproj.CoreCompileInputs.cache
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\obj\Debug\PiyushApps.PDFEditor.csproj.CopyComplete
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\obj\Debug\PiyushApps.PDFEditor.exe
+C:\Users\Pyuish\Source\Repos\PiyushPDFEditor - Copy\obj\Debug\PiyushApps.PDFEditor.pdb
